@@ -3,8 +3,8 @@ A clone of the famous Rhythm bot made in Python using discord.py
 
 ## How to use
 You can run the bot by using:
-> the Google Colab Notebook
-> the Python Script
+- the Google Colab Notebook
+- the Python Script
 You will need in any case the API key of your own discord bot!
 
 ### Google Colab Notebook
