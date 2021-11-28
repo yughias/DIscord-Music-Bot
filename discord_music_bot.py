@@ -13,7 +13,7 @@ apikey = input('insert your API key:')
 
 ydl_opts = {
     'outtmpl': 'audio.mp3',
-    'format': 'bestaudio/best',
+    'format': '249',
     'postprocessors': [{
         'key': 'FFmpegExtractAudio',
         'preferredcodec': 'mp3',
